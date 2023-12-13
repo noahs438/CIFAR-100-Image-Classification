@@ -1,0 +1,1 @@
+python train.py -e 20 -b 100 -l encoder.pth -s vanilla_frontend.pth -p vanilla_loss.png -m V -cuda Y

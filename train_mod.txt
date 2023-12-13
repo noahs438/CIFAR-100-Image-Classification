@@ -1,0 +1,1 @@
+python train.py -e 20 -b 100 -l encoder.pth -s mod_frontend.pth -p mod_loss.png -m M -cuda Y

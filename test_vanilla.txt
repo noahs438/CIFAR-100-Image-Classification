@@ -1,0 +1,1 @@
+python vanilla_test.py -m vanilla_frontend.pth
